@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Statistics</string>
+    <string name="tab_text_1">AboutUs</string>
+    <string name="tab_text_2">Stats</string>
+    <string name="tab_text_3">AboutData</string>
+    <string name="col1">Name</string>
+    <string name="col2">Rate</string>
+
+    <string name="row1State">Abuja</string>
+    <string name="row1Rate">15.5</string>
+
+    <string name="row2State">Abia</string>
+    <string name="row2Rate">28.3</string>
+
+    <string name="row3State">Adamawa</string>
+    <string name="row3Rate">6.8</string>
+
+    <string name="row4State">Akwa Ibom</string>
+    <string name="row4Rate">36.6</string>
+
+    <string name="row5State">Anambra</string>
+    <string name="row5Rate">13.7</string>
+
+    <string name="row6State">Bauchi</string>
+    <string name="row6Rate">9.1</string>
+
+    <string name="row7State">Bayelsa</string>
+    <string name="row7Rate">30.44</string>
+
+    <string name="row8State">Benue</string>
+    <string name="row8Rate">10.7</string>
+
+    <string name="row9State">Borno</string>
+    <string name="row9Rate">23.5</string>
+
+    <string name="row10State">Cross River</string>
+    <string name="row10Rate">20.3</string>
+
+    <string name="row11State">Delta</string>
+    <string name="row11Rate">18</string>
+
+    <string name="row12State">Ebonyi</string>
+    <string name="row12Rate">18.5</string>
+
+    <string name="row13State">Edo</string>
+    <string name="row13Rate">20</string>
+
+    <string name="row14State">Ekiti</string>
+    <string name="row14Rate">14.5</string>
+
+    <string name="row15State">Enugu</string>
+    <string name="row15Rate">20.2</string>
+
+    <string name="row16State">Gombe</string>
+    <string name="row16Rate">11</string>
+
+    <string name="row17State">Imo</string>
+    <string name="row17Rate">29.5</string>
+
+    <string name="row18State">Jigawa</string>
+    <string name="row18Rate">19.4</string>
+
+    <string name="row19State">Kaduna</string>
+    <string name="row19Rate">29</string>
+
+    <string name="row20State">Kano</string>
+    <string name="row20Rate">19.7</string>
+
+    <string name="row21State">Katsina</string>
+    <string name="row21Rate">3.2</string>
+
+    <string name="row22State">Kebbi</string>
+    <string name="row22Rate">8</string>
+
+    <string name="row23State">Kogi</string>
+    <string name="row23Rate">21.4</string>
+
+    <string name="row24State">Kwara</string>
+    <string name="row24Rate">13.3</string>
+
+    <string name="row25State">Lagos</string>
+    <string name="row25Rate">17.8</string>
+
+    <string name="row26State">Nassarawa</string>
+    <string name="row26Rate">28.9</string>
+
+    <string name="row27State">Niger</string>
+    <string name="row27Rate">10.6</string>
+
+    <string name="row28State">Ogun</string>
+    <string name="row28Rate">9.7</string>
+
+    <string name="row29State">Ondo</string>
+    <string name="row29Rate">15.5</string>
+
+    <string name="row30State">Osun</string>
+    <string name="row30Rate">5.3</string>
+
+    <string name="row31State">Oyo</string>
+    <string name="row31Rate">9.2</string>
+
+    <string name="row32State">Plateau</string>
+    <string name="row32Rate">25.5</string>
+
+    <string name="row33State">Rivers</string>
+    <string name="row33Rate">41.8</string>
+
+    <string name="row34State">Sokoto</string>
+    <string name="row34Rate">18.6</string>
+
+    <string name="row35State">Taraba</string>
+    <string name="row35Rate">7.2</string>
+
+    <string name="row36State">Yobe</string>
+    <string name="row36Rate">21.4</string>
+
+    <string name="row37State">Zamfara</string>
+    <string name="row37Rate">7.6</string>
+
+
+
+
+
+
+</resources>
